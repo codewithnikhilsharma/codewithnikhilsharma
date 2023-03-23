@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-  <p align="left"> <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" /> </p>
+  <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@nikhilsharmath" target="blank"><img src="https://img.shields.io/twitter/follow/@nikhilsharmath?logo=twitter&style=for-the-badge" alt="@nikhilsharmath" /></a> </p>
 
