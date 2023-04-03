@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
 <h3 align="center"> Full Stack Software Developer </h3>
 
-  <p align="left"> <img src="https://media0.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="1500" height="400" /> </p>
+  <p align="left"> <img src="https://media0.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="1500" height="200" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@nikhilsharmath" target="blank"><img src="https://img.shields.io/twitter/follow/@nikhilsharmath?logo=twitter&style=for-the-badge" alt="@nikhilsharmath" /></a> </p>
 
