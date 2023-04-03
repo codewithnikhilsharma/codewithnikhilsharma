@@ -3,7 +3,7 @@
 
   <p align="left"> <img src="https://media0.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif"  /> </p>
 
-<p align="left"> <a href="https://twitter.com/@nikhilsharmath" target="blank"><img src="https://img.shields.io/twitter/follow/@nikhilsharmath?logo=twitter&style=for-the-badge" alt="@nikhilsharmath" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@nikhilsharmath" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilsharmath?logo=twitter&style=for-the-badge" alt="@nikhilsharmath" /></a> </p>
 
 - 🌱 I’m currently learning **Angular , Java**
 
