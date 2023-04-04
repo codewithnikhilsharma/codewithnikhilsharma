@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **nikhilsharmanikk53@gmail.com**
 
+- 📝 I regularly write articles on [https://hashnode.com/@nikhilsharma292](https://hashnode.com/@nikhilsharma292)
+
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
