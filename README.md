@@ -31,10 +31,18 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithnikhilsharma&show_icons=true&locale=en&layout=compact" alt="codewithnikhilsharma" /></p> -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codewithnikhilsharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=codewithnikhilsharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codewithnikhilsharma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithnikhilsharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithnikhilsharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithnikhilsharma&show_icons=true&locale=en" alt="codewithnikhilsharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithnikhilsharma&" alt="codewithnikhilsharma" /></p> -->
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithnikhilsharma&show_icons=true&locale=en&layout=compact" alt="codewithnikhilsharma" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithnikhilsharma&show_icons=true&locale=en" alt="codewithnikhilsharma" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithnikhilsharma&" alt="codewithnikhilsharma" /></p>
+
